@@ -6,7 +6,7 @@ We are building our website. We welcome contributions, and we are excited to wel
 
 Happy contributing!
 
-Read the **Quick Start** guide for you to setup this repo, and read the **[Project Plan](PROJECT_PLAN.md)** for you to have an idea what we are building.
+Read the **Quick Start** guide for  setup this repo, and read the **[Project Plan](PROJECT_PLAN.md)** for you have an idea what we are building.
 
 ## 🚀 Quick Start
 
@@ -25,7 +25,7 @@ Read the **Quick Start** guide for you to setup this repo, and read the **[Proje
    ```sh
    cd fccmanila.github.io/
    yarn
-   # or yarn install
+   # Or yarn install
    ```
 
 1. **Start the server**
@@ -38,7 +38,7 @@ Read the **Quick Start** guide for you to setup this repo, and read the **[Proje
 
 ## 📦 Requirements
 
-Please make sure you have this installed on your machine:
+Please make sure you have  installed on your machine:
 
 - [NodeJS](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/lang/en/)
